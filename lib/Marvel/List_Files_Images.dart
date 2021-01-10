@@ -43,7 +43,7 @@ AppBar MyAppBar = AppBar(
   title: Text("Movies' Lovers",
       style: TextStyle(
         fontFamily: "Marvel",
-        fontSize: 30,
+        fontSize: 25,
         color: Colors.white,
       )),
   backgroundColor: Colors.redAccent,

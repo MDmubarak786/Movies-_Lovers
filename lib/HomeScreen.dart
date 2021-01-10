@@ -3,7 +3,7 @@ import 'package:bottom_animation/source/navigation_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
+import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';
 import 'DC_Movies/DcMovies.dart';
 import 'DC_Movies/More_info.dart';
 import 'Marvel/List_Files_Images.dart';
@@ -18,9 +18,9 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   var items = <BottomNavItem>[
     BottomNavItem(title: 'Marvel', iconData: CupertinoIcons.heart),
-    BottomNavItem(title: 'DC Movies', iconData: CupertinoIcons.heart),
+    BottomNavItem(title: '  DC', iconData: CupertinoIcons.heart),
     BottomNavItem(
-        title: 'More', iconData: CupertinoIcons.ellipsis_vertical_circle),
+        title: '  More', iconData: CupertinoIcons.ellipsis_vertical_circle),
   ];
 
   var cIndex;
@@ -34,6 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    FlutterStatusbarcolor.setStatusBarColor(Colors.redAccent);
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitDown, DeviceOrientation.portraitUp]);
     return SafeArea(
