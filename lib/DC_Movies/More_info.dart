@@ -5,7 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 class More_info extends StatelessWidget {
   String _lunchINS = 'https://www.instagram.com/scooby_doo.mk/';
 
-  String _lunchFB = 'https://www.facebook.com/profile.php?id=100022367763572';
+  String _lunchFB = 'https://www.facebook.com/people/Mohammed-Mubarak/100022367763572';
 
   void customLaunch(command) async {
     if (await canLaunch(command)) {
