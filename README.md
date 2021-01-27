@@ -1,14 +1,15 @@
-# movies_app
+# 🦾 College Calc 👀 
 
-A new Flutter application.
+👋 ❤️This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
 
-## Getting Started
+🟢 Added Splash Screen
 
-This project is a starting point for a Flutter application.
+🟢 In this app , I added some transition while changing the screen.
 
-A few resources to get you started if this is your first Flutter project:
+🟢 using this app you can seprately calculate the GPA and CGPA marks.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🟢 Last About page I am added some social network account links in that page.
 
-For help getting started withlut://flutter.dev/docs), which offers tutor
+##
+
+# 🤳 ScreenShots 👀 
