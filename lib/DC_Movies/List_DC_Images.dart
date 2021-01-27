@@ -1,12 +1,13 @@
 List<String> DC_Movies = [
   "https://i.pinimg.com/564x/57/47/fa/5747fa41aa62123379bf811d192c10e4.jpg",
   "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb2b8266-e162-42a4-95b5-ae8c4bc73238/d6op4bv-ac129ed4-a748-4948-b80b-92c1391e0072.jpg/v1/fill/w_1600,h_2473,q_75,strp/batman_v__superman__dawn_of_justice_poster_1_by_jonesyd1129_d6op4bv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZmIyYjgyNjYtZTE2Mi00MmE0LTk1YjUtYWU4YzRiYzczMjM4XC9kNm9wNGJ2LWFjMTI5ZWQ0LWE3NDgtNDk0OC1iODBiLTkyYzEzOTFlMDA3Mi5qcGciLCJoZWlnaHQiOiI8PTI0NzMiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9mYjJiODI2Ni1lMTYyLTQyYTQtOTViNS1hZThjNGJjNzMyMzhcL2pvbmVzeWQxMTI5LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.pdgX9cp8-vz4vHbPoWurU0j5ZbXhlwv9_zNq2WxQ2Yc",
-  "https://th.bing.com/th/id/OIP.Hc3Mn8qY9fcZFWMcRvToXgHaKj?pid=Api&rs=1",
-  "https://th.bing.com/th/id/OIP.ItP_Y5WG22ZO52g-QsW5XgHaK-?pid=Api&rs=1",
+  "https://www.joblo.com/assets/images/oldsite/posters/images/full/Suicide-Squad-Character-Poster-1.jpg",
+  "https://www.joblo.com/assets/images/oldsite/posters/images/full/wonder-woman-new-poster.jpg",
   "https://th.bing.com/th/id/OIP._HQZesg_3XXMq2wLegBn5gHaK-?pid=Api&rs=1",
-  "https://i.pinimg.com/originals/7e/3e/63/7e3e639187440fea109b4a82a4de0d0c.jpg",
-  "https://www.superheromovies.net/img/p/5Z5WwiDp1Fl4BEcTibBwBuziefh.jpg",
-  "https://sm.ign.com/t/ign_ap/screenshot/a/a-poster-f/a-poster-for-the-movie-birds-of-prey-opening-february-7-2020_52n3.1080.jpg",
+  "https://www.joblo.com/assets/images/joblo/posters/2018/11/aquamanrisemainposter.jpg",
+  "https://www.joblo.com/assets/images/joblo/posters/2018/12/Dtv6YesU0AAUlUw.jpg",
+  "https://www.joblo.com/assets/images/joblo/posters/2020/01/birdspreyhyenaman.jpg",
+  "https://www.joblo.com/assets/images/joblo/posters/2020/12/wonder-woman-1984-gal-gadot-poster.jpg"
 ];
 
 List<String> ManofSteel = [
@@ -78,4 +79,13 @@ List<String> BirdsofPrey = [
   "6.1",
   "Cathy Yan",
   "'You ever hear the one about the cop, the songbird, the psycho and the mafia princess?'Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn) is a twisted tale told by Harley herself, as only Harley can tell it. When Gotham’s most nefariously narcissistic villain, Roman Sionis, and his zealous right-hand, Zsasz, put a target on a young girl named Cass, the city is turned upside down looking for her. Harley, Huntress, Black Canary and Renee Montoya’s paths collide, and the unlikely foursome have no choice but to team up to take Roman down.",
+];
+
+List<String> WW2020 = [
+  "151",
+  "https://www.youtube.com/watch?v=psFf4KXJZoQ",
+  "2020",
+  "5.4",
+  "Patty Jenkins",
+  "Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing."
 ];

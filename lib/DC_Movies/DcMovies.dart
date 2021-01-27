@@ -114,6 +114,17 @@ class DcMovies extends StatelessWidget {
                   directed1: BirdsofPrey[4],
                   outline1: BirdsofPrey[5],
                 ),
+                _DC(
+                  image: DC_Movies[8],
+                  moviename: "Wonder Woman 1984",
+                  length1: WW2020[0],
+                  trailer1: WW2020[1],
+                  date1: WW2020[2],
+                  rate1: WW2020[3],
+                  directed1: WW2020[4],
+                  outline1: WW2020[5],
+                ),
+
               ],
             ),
           ),

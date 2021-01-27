@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';
 import 'DC_Movies/DcMovies.dart';
-import 'DC_Movies/More_info.dart';
+import 'More_info.dart';
 import 'Marvel/List_Files_Images.dart';
 import 'Marvel/Marvel_Page.dart';
 
@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
     cIndex = 0;
     super.initState();
   }
-
+//
   List<Widget> Pages = [MarvelPage(), DcMovies(), More_info()];
 
   @override
