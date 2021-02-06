@@ -12,7 +12,7 @@
 
 🟢 This app contains Movie's name, lenth, title, trailer with webview page, outline,director.
 
-🟢 Last About page I am added some social network account links in that page
+🟢 Last About page I am added some social network account links in that page.
 
 
 ```
